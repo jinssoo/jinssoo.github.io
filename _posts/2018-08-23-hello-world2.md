@@ -6,4 +6,4 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+블로그 테스트 입니다. Github를 사용한 블로그 입니다.
